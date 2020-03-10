@@ -1,0 +1,37 @@
+.p_pertama {
+  font-family: inherit;
+  background-color: orange;
+  font-size: 10px;
+  font-style: strong;
+  outline:1px solid;
+}
+
+.p_kedua {
+  color: white;
+  background-color: blue;
+  font-size: 10px;
+  font-family: inherit;
+  font-style: strong;
+
+
+
+}
+
+.p_ketiga {
+  background-color: white;
+  color: black;
+  font-family: monospace;
+  font-size: 20px;
+  outline:1px solid;
+  outline-color: silver;
+
+
+}
+
+.p_keempat {
+  background-color: silver;
+  color: black;
+  font-weight: bold;
+  font-family: inherit;
+  outline: 1px solid;
+  font-style: strong;
